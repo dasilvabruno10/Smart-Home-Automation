@@ -1,1 +1,1 @@
-# Smart-Home-Automation
+Developed a home automation system using Arduino and IoT technologies to control lighting, blinds, and HVAC systems remotely. Implemented a website interface using MQTT protocol as well as ThingSpeak and MATLAB for user interaction and control. Integrated sensors and actuators using breadboard, and managed real-time data processing. The system was all simulated through ThingSpeak and results were outputted through graphs where a functional model of the system could be observed.
